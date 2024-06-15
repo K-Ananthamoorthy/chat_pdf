@@ -69,4 +69,4 @@ The Chat PDF Application is licensed under the MIT License. See the [LICENSE](LI
 
 The Chat PDF Application is built using open-source technologies and relies on the contributions of the open-source community. Special thanks to the creators of Flask and LLaMA GPT-2 for their work on these projects.
 
-I hope this helps! Let me know if you have any questions or need further assistance.
+I hope this helps! Let me know if you have any questions or need further assistance....
